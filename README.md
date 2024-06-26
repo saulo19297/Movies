@@ -3,7 +3,7 @@ documentation of the process done with Movies data.
 
 ## About
 analyze the data of 700,000 movies to find out which genre is the 
-best invesment to make a profit.
+best investment to make a profit.
 
 ## Data Analysis
 - check columns
